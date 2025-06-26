@@ -17,6 +17,7 @@ public class JavaApplication8 {
         // TODO code application logic here
         System.err.println("Helloword");
         System.out.println("BELAJAR BARIS2");
+        System.err.println("BARIS KE 3");
     }
     
 }
